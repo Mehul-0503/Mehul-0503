@@ -71,28 +71,18 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-<a href="https://github.com/Mehul-0503/Dynamic_Speed_Predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Dynamic_Speed_Predictor&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=1D9E75" />
-</a>
-&nbsp;
-<a href="https://github.com/Mehul-0503/Box_Office_predictor_using_ML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Box_Office_predictor_using_ML&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=1D9E75" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Mehul-0503/Bank_Management_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Bank_Management_System&theme=tokyonight&border_color=1D9E75&title_color=1D9E75&icon_color=D85A30" />
-</a>
-&nbsp;
-<a href="https://github.com/Mehul-0503/Namma_Yantra_Share">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Namma_Yantra_Share&theme=tokyonight&border_color=1D9E75&title_color=1D9E75&icon_color=D85A30" />
-</a>
+| Project | Description |
+|--------|-------------|
+| [🚗 Dynamic Speed Predictor](https://github.com/Mehul-0503/Dynamic_Speed_Predictor) | ML model to predict vehicle speed dynamically |
+| [🎬 Box Office Predictor](https://github.com/Mehul-0503/Box_Office_predictor_using_ML) | Predicts box office revenue using ML |
+| [🏦 Bank Management System](https://github.com/Mehul-0503/Bank_Management_System) | C-based bank management system |
+| [🔧 Namma Yantra Share](https://github.com/Mehul-0503/Namma_Yantra_Share) | Tool/equipment sharing platform |
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
