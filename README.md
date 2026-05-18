@@ -1,33 +1,34 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Mehul+%F0%9F%91%8B;ML+%26+Python+Developer;Building+Smart+Solutions+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mehul+%F0%9F%91%8B;ML+%26+Python+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;Open+Source+%7C+Flutter+%7C+Data+Science)](https://git.io/typing-svg)
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Mehul-0503&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mehul-0503&color=7F77DD&style=flat-square&label=profile+views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Mehul-0503?style=for-the-badge&color=00d9ff&labelColor=1a1a2e)](https://github.com/Mehul-0503?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Mehul-0503?style=flat-square&color=1D9E75&labelColor=0a0a0a&label=followers)](https://github.com/Mehul-0503?tab=followers)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/Mehul-0503?style=flat-square&color=D85A30&labelColor=0a0a0a&label=total+stars)
 
 </div>
 
 ---
 
-<!-- About Me Section -->
 ## 🧑‍💻 About Me
 
 ```python
 class Mehul:
     def __init__(self):
-        self.name       = "Mehul"
-        self.username   = "Mehul-0503"
-        self.role       = "ML & Python Developer"
-        self.languages  = ["Python", "C", "C++", "Dart", "HTML"]
-        self.interests  = ["Machine Learning", "Data Science",
-                           "Backend Development", "Open Source"]
-        self.currently  = "Building intelligent systems 🤖"
+        self.name      = "Mehul"
+        self.username  = "Mehul-0503"
+        self.role      = "ML & Python Developer"
+        self.stack     = ["Python", "C", "C++", "Dart", "Flutter", "Flask"]
+        self.domains   = ["Machine Learning", "Data Science", "Backend Dev", "Mobile Apps"]
+        self.building  = "Intelligent systems that solve real-world problems 🤖"
+        self.goal      = "Impactful open-source contributions 🚀"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Let's build something remarkable together!")
 
 me = Mehul()
 me.say_hi()
@@ -35,34 +36,34 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-<!-- Skill Icons -->
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,c,cpp,flask,dart,flutter,html,sklearn,tensorflow,git,github,vscode,linux&perline=7)](https://skillicons.dev)
+**Languages**
 
-</div>
+![Python](https://img.shields.io/badge/Python-7F77DD?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-534AB7?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3C3489?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-1D9E75?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-D85A30?style=flat-square&logo=html5&logoColor=white)
 
-<br>
+**Frameworks & Libraries**
 
-<!-- Tech Badges -->
-<div align="center">
+![Flask](https://img.shields.io/badge/Flask-534AB7?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1D9E75?style=flat-square&logo=flutter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-D85A30?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-854F0B?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7F77DD?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-3C3489?style=flat-square&logo=numpy&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-D85A30?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-534AB7?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1D9E75?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-854F0B?style=flat-square&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-534AB7?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
@@ -73,21 +74,21 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/Mehul-0503/Dynamic_Speed_Predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Dynamic_Speed_Predictor&theme=tokyonight&border_color=00d9ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Dynamic_Speed_Predictor&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=1D9E75" />
 </a>
 &nbsp;
 <a href="https://github.com/Mehul-0503/Box_Office_predictor_using_ML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Box_Office_predictor_using_ML&theme=tokyonight&border_color=00d9ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Box_Office_predictor_using_ML&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=1D9E75" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Mehul-0503/Bank_Management_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Bank_Management_System&theme=tokyonight&border_color=00d9ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Bank_Management_System&theme=tokyonight&border_color=1D9E75&title_color=1D9E75&icon_color=D85A30" />
 </a>
 &nbsp;
 <a href="https://github.com/Mehul-0503/Namma_Yantra_Share">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Namma_Yantra_Share&theme=tokyonight&border_color=00d9ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehul-0503&repo=Namma_Yantra_Share&theme=tokyonight&border_color=1D9E75&title_color=1D9E75&icon_color=D85A30" />
 </a>
 
 </div>
@@ -98,9 +99,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mehul-0503&show_icons=true&theme=tokyonight&border_color=00d9ff&include_all_commits=true&count_private=true&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mehul-0503&show_icons=true&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=1D9E75&ring_color=D85A30&include_all_commits=true&count_private=true" height="175" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-0503&layout=compact&theme=tokyonight&border_color=00d9ff&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-0503&layout=compact&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&langs_count=8" height="175" />
 
 </div>
 
@@ -108,7 +109,7 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mehul-0503&theme=tokyonight&border=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mehul-0503&theme=tokyonight&border=7F77DD&ring=7F77DD&fire=D85A30&currStreakLabel=1D9E75&sideLabels=1D9E75)](https://git.io/streak-stats)
 
 </div>
 
@@ -118,7 +119,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mehul-0503&theme=tokyonight&column=7&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mehul-0503&theme=tokyonight&column=7&no-frame=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -136,23 +137,21 @@ me.say_hi()
 
 </div>
 
-> ⚠️ **Note:** The snake animation requires a GitHub Actions workflow to generate. See setup instructions below.
-
 ---
 
 ## 📈 Activity Graph
 
-[![Mehul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehul-0503&theme=tokyo-night&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ff6b35&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mehul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehul-0503&theme=tokyo-night&bg_color=1a1b27&color=7F77DD&line=1D9E75&point=D85A30&area=true&area_color=534AB7&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mehul--0503-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehul-0503)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-kushwaha/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushwahamehul2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mehul--0503-7F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehul-0503)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1D9E75?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
@@ -160,7 +159,7 @@ me.say_hi()
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### 💬 Dev Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -170,7 +169,7 @@ me.say_hi()
 
 <div align="center">
 
-*⭐ Star my repos if you find them helpful! Thanks for visiting! ⭐*
+*If you find my work useful, a ⭐ on any repo means the world. Thanks for stopping by!*
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
