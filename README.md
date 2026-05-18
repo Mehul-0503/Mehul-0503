@@ -69,7 +69,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
@@ -83,7 +82,6 @@ me.say_hi()
 | [🔧 Namma Yantra Share](https://github.com/Mehul-0503/Namma_Yantra_Share) | Tool/equipment sharing platform |
 
 </div>
----
 
 ## 📊 GitHub Stats
 
